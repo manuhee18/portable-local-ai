@@ -1,0 +1,25 @@
+# Programas descargados por INSTALAR.bat (muy pesados para git)
+motor/
+interfaz/
+portable/
+instaladores/
+herramientas/uv/
+
+# Modelos de IA (GB)
+modelos/
+
+# DATOS PERSONALES: conversaciones, documentos subidos, ajustes, logs
+datos/
+documentos/
+
+# Borradores personales (post de LinkedIn, etc.)
+publicacion/
+
+# Varios
+*.log
+*.gguf
+__pycache__/
+.claude/
+
+# Claves secretas generadas por Open WebUI
+.webui_secret_key
